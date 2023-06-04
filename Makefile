@@ -1,4 +1,4 @@
-CFLAGS=-std=cli -g -static
+FLAGS=-std=cll -g -static
 
 minicc:minicc.c
 
